@@ -1,7 +1,7 @@
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M6
 # IAPR-6- Module 6 - FoC
-## Name: Aswitha P
-## Reg No: 212224020004
+## Name: MADHU MITHAA A M
+## Reg No: 212224060142
 ## 11. Implementation of the concept of pointer to function.
 ## 12. Implementation of programs using structure and union.
 ## 13. Implementation of programs for different storage classes.
